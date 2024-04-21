@@ -1,2 +1,2 @@
 # Portfolio-Project
-the project is in "master" branch
+The full project is in "master" branch
